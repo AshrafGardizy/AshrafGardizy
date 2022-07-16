@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning SwiftUI.
 
 
-- 💞️ I’m looking to collaborate on Web and Mobile App project.
+- 💞️ I’m looking to collaborate on Web and Mobile App projects.
 - 📫 You can reach me by using my email address: ashrafgardizy@gmail.com
 
 <!---
