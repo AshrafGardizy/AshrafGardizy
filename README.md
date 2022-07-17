@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to my Github page, I’m @AshrafGardizy, nice to meet you.
+- 👋 Hi, welcome to my Github page, I’m @AshrafGardizy from Afghanistan. Currently live in Maurituis nice to meet you.
 - 👀 I’m interested in Backend Web Application Development and Mobile Application Development.
 - - I've been working in the industry for the past 7 years. I love photography, coffee and adventure!
 - 🌱 I’m currently learning SwiftUI.
