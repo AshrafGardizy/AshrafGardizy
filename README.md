@@ -1,10 +1,10 @@
 - 👋 Hi, welcome to my Github page, I’m @AshrafGardizy, nice to meet you.
-- 👀 I’m interested in Web Application Development and Mobile Application Development
+- 👀 I’m interested in Backend Web Application Development and Mobile Application Development.
 - - I've been working in the industry for the past 7 years. I love photography, coffee and adventure!
 - 🌱 I’m currently learning SwiftUI.
 
 
-- 💞️ I’m looking to collaborate on Web and Mobile App projects.
+- 💞️ I’m looking to collaborate on the development of Web and Mobile Application projects.
 - 📫 You can reach me by using my email address: ashrafgardizy@gmail.com
 
 <!---
