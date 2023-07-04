@@ -1,10 +1,10 @@
-- 👋 Hi, welcome to my Github page, I’m @AshrafGardizy from Afghanistan. It's great connecting with you. Currently, I live in Mauritius.
-- 👀 I’m interested in Backend Web Application Development and Mobile Application Development.
-- - I've been working in the industry for the past 7 years. I love photography, coffee and adventure!
+- 👋 Hi, welcome to my Github page, I’m @AshrafGardizy. It's great connecting with you. Currently, I live in Stockholm.
+- 👀 I’m interested in Mobile Application Development.
+- - I've been working in the industry for the past 7 years. I love also photography, coffee and adventure!
 - 🌱 I’m currently learning SwiftUI.
 
 
-- 💞️ I’m looking to collaborate on the development of Web and Mobile Application projects.
+- 💞️ I’m looking to collaborate on the development of Mobile Application projects.
 - 📫 You can reach me by using my email address: ashrafgardizy@gmail.com
 
 <!---
