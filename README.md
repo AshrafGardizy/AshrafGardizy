@@ -3,7 +3,7 @@
 - 🌱 Currently pursuing a Master's in Information Security at Stockholm University
 
 
-- 💞️ I’m looking to collaborate on the development of Mobile Application projects and Web projectes.
+- 💞️ I’m looking to collaborate on the development of Web Projects.
 - 📫 You can reach me by using my email address: ashrafgardizy@gmail.com
 
 <!---
