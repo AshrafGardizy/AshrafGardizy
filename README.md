@@ -1,7 +1,7 @@
-- 👋 Hi, welcome to my Github page, I’m @AshrafGardizy. It's great connecting with you. Currently, I live in Stockholm, Sweden.
-- 👀 I’m Mobile Application Developer and Web Backend (NodeJS, ExpressJS, MongoDB and MySQL) Developer.
+- 👋 Hi, welcome to my Github page, I’m @AshrafGardizy a software engineer living in Stockholm, Sweden.
+- 👀 I’m Software Engineer
 - - I've been working in the industry for the past 7 years. I love also photography, coffee and adventure!
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 Currently pursuing a Master's in Information Security at Stockholm University
 
 
 - 💞️ I’m looking to collaborate on the development of Mobile Application projects and Web projectes.
