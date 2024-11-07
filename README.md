@@ -3,7 +3,6 @@
 - 🌱 Currently searching for jobs.
 
 
-
 - 📫 You can reach me by using my email address: ashrafgardizy@gmail.com
 
 <!---
